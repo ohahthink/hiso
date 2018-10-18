@@ -1,1 +1,1 @@
-Test merge and git 
+Test merge and git. 
